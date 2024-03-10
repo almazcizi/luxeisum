@@ -1,2 +1,3 @@
 # luxeisum
+
 Quickly calculate numbers

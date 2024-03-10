@@ -1,0 +1,26 @@
+{
+  "name": "luxeisum",
+  "version": "1.0.3",
+  "description": "Quickly calculate numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "are-arrays": "^1.0.0",
+    "are-objects": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/almazcizi/luxeisum"
+  },
+  "homepage": "https://twitter.com/NDuy4nh",
+  "keywords": [
+    "sum",
+    "add",
+    "Total",
+    "Calculate"
+  ],
+  "author": "NDuy4nh",
+  "license": "MIT"
+}
